@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1548311762 source:/home/ray/code/mycpp/new_c/main.cpp
+
+1548321743 source:/home/ray/code/mycpp/new_c/new_delet.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

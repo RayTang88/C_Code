@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1548819483 source:/home/ray/code/mycpp/istream_reload/main.cpp
+	<iostream>
+
+1548820612 source:/home/ray/code/mycpp/istream_reload/squal_reload.cpp
+	<iostream>
+
+1548821647 source:/home/ray/code/mycpp/istream_reload/list_reload2.cpp
+	<iostream>
+
+1548821663 source:/home/ray/code/mycpp/istream_reload/squal_reload2.cpp
+

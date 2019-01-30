@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1548146149 source:/home/ray/code/mycpp/function/main.cpp
+	<iostream>
+	"Gzdemo.h"
+	"Twodimension.h"
+	"Functionptr.h"
+
+1548138482 /home/ray/code/mycpp/function/Gzdemo.h
+	<iostream>
+
+1548140283 /home/ray/code/mycpp/function/Twodimension.h
+
+1548146123 /home/ray/code/mycpp/function/Functionptr.h
+	<iostream>
+

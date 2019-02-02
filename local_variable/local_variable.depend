@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1548396765 source:/home/ray/Code_c/local_variable/main.cpp
+	<iostream>
+	"local.h"
+	"head.h"
+
+1548386009 /home/ray/Code_c/local_variable/local.h
+	<iostream>
+
+1548396825 /home/ray/Code_c/local_variable/head.h
+	<iostream>
+

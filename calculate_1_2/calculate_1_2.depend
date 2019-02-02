@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1548755441 source:/home/ray/Code_c/calculate_1_2/main.cpp
+
+1548755991 source:/home/ray/Code_c/calculate_1_2/one_yuan_calculate.cpp
+	<iostream>
+
+1548757801 source:/home/ray/Code_c/calculate_1_2/one_yuan_calculate2.cpp
+

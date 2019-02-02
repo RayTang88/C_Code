@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1548425179 source:/home/ray/Code_c/make_function/main.cpp
+	<iostream>
+
+1548431041 source:/home/ray/Code_c/make_function/make_withpara.cpp
+	<iostream>
+
+1548431097 source:/home/ray/Code_c/make_function/list_start.cpp
+	<iostream>
+

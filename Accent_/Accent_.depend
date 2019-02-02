@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1548898460 source:/home/ray/Code_c/Accent_/main.cpp
+	<iostream>
+
+1548900175 source:/home/ray/Code_c/Accent_/reload_cover.cpp
+	<iostream>
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1548905577 source:/home/ray/Code_c/Polymorphism/main.cpp
+	<iostream>
+
+1548917981 source:/home/ray/Code_c/Polymorphism/poly_son2.cpp
+	<iostream>
+
+1548981170 source:/home/ray/Code_c/Polymorphism/virtual_table_getvalue.cpp
+	<iostream>
+
+1548982808 source:/home/ray/Code_c/Polymorphism/virtual_delet_value.cpp
+	<iostream>
+
+1548987798 source:/home/ray/Code_c/Polymorphism/virtual_pure.cpp
+	<iostream>
+
+1548992411 source:/home/ray/Code_c/Polymorphism/torgether.cpp
+	<iostream>
+
+1548989875 source:/home/ray/Code_c/Polymorphism/virtual_accer.cpp
+	<iostream>
+
+1548999793 source:/home/ray/Code_c/Polymorphism/only_example.cpp
+
+1549002183 source:/home/ray/Code_c/Polymorphism/error.cpp
+	<iostream>
+
+1549009752 source:/home/ray/Code_c/Polymorphism/try_error.cpp
+	<iostream>
+
+1549024789 source:/home/ray/Code_c/Polymorphism/class_in_out.cpp
+	<iostream>
+
+1549024769 source:/home/ray/Code_c/Polymorphism/ivent_type.cpp
+	<iostream>
+

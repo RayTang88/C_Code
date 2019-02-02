@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1549075977 source:/home/ray/Code_c/template/main.cpp
+
+1549088643 source:/home/ray/Code_c/template/class_template.cpp
+
+1549090151 source:/home/ray/Code_c/template/template_accer.cpp
+
+1549090799 source:/home/ray/Code_c/template/template_polym.cpp
+	<iostream>
+
+1549093360 source:/home/ray/Code_c/template/template_polym2.cpp
+	<iostream>
+
+1549093331 source:/home/ray/Code_c/template/template_paraclass.cpp
+	<iostream>
+

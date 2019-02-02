@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1548669727 source:/home/ray/code/mycpp/ref_start/main.cpp
+	<iostream>
+	<cstring>
+
+1548656594 source:/home/ray/code/mycpp/ref_start/free_fuction.cpp
+
+1548669710 source:/home/ray/code/mycpp/ref_start/this_ptr.cpp
+
+1548669710 source:/home/ray/code/mycpp/ref_start/static.cpp
+
+1548669710 source:/home/ray/code/mycpp/ref_start/static_pp.cpp
+	<iostream>
+
+1548669539 source:/home/ray/code/mycpp/ref_start/copy_struct.cpp
+	<iostream>
+
+1548686238 source:/home/ray/code/mycpp/ref_start/copy_struct2.cpp
+	<iostream>
+	<cstring>
+
+1548679657 source:/home/ray/code/mycpp/ref_start/copy_struct3.cpp
+	<iostream>
+	<cstring>
+
+1548681827 source:/home/ray/code/mycpp/ref_start/inline.cpp
+	<iostream>
+
+1548683355 source:/home/ray/code/mycpp/ref_start/cal_again.cpp
+
+1548685882 source:/home/ray/code/mycpp/ref_start/cal_again_with_return.cpp
+	<iostream>
+
+1548686992 source:/home/ray/code/mycpp/ref_start/cal_again_with_return1.cpp
+

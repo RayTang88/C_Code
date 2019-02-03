@@ -8,22 +8,26 @@ using namespace std;
 int main()
 {
     //折半查找
-    int num[] = {245,5,24774,6,12124};
-    int len = 5;
+    int num[] = {21,228,29,648,121,1348,158,};
+    int len = sizeof(num)/sizeof(num[0]);
     int x;
     int i;
     select_order(num,len);
     cout <<"The array after order:"<<endl;
-    for(int k = 0; k < len; k++){
-        cout <<num[k]<<endl;
-    }
+    for(int k = 0; k < len; k++)
+        {
+            cout <<num[k]<<endl;
+        }
     cout <<"Please input the number you want find!"<<endl;
     cin >>x;
 
     i = bin_serch(num,len,x);
-    if(i != -1){
+    if(i != -1)
+    {
         cout << "Yes!This number in" <<i+1<<"!!"<< endl;
-    }else{
+    }
+    else
+    {
         cout << "Ops!This number is not here!!" << endl;
     }
 
@@ -43,6 +47,5 @@ int main()
         cout << "Ops!This number is not here!!" << endl;
     }
     */
-
     return 0;
 }

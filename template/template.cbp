@@ -35,6 +35,7 @@
 		<Unit filename="class_template.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="template_accer.cpp" />
+		<Unit filename="template_paraclass.cpp" />
 		<Unit filename="template_polym.cpp" />
 		<Unit filename="template_polym2.cpp" />
 		<Extensions>
